@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: 
+Disallow: /
+
+Sitemap: https://prensmiskin.github.io/macbook-pro-pesinde/
